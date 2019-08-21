@@ -1,0 +1,6 @@
+In Python you can define a function.
+In Python you can create a list
+In Python you can change a value in a list.
+In Python you can create a loop with 'for' or 'while'.
+In Python you can read a file line by line.
+In Python you can write something into an empty file.
