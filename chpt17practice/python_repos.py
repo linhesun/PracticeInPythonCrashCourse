@@ -14,6 +14,7 @@ print("Total repositories:", response_dict['total_count'])
 # Explore information about the repositories.
 repo_dicts = response_dict['items']
 
+# the repo shadowsocks has no description.
 names, plot_dicts = [], []
 for repo_dict in repo_dicts:
     names.append(repo_dict['name'])
